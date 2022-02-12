@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: bug
+  server:
+    port: 8080
+    netty:
+      log-level: INFO
